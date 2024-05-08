@@ -33,21 +33,43 @@
 }
 
 html[data-theme='dark'] .technologies,
+.technologies__item,
 .menu.menu--principal,
 .menu.menu--mobile,
 .menu.menu--social,
+.contact,
 body,
-header {
+h1,
+h2,
+h3,
+h4,
+span,
+button,
+header,
+i,
+p,
+a {
     transition: ease-in-out 0.8s;
 }
 
 html[data-theme='light'] .technologies,
+.technologies__item,
 .menu.menu--principal,
 .menu.menu--mobile,
 .menu.menu--social,
 .brand__logo,
+.contact,
 body,
-header {
+h1,
+h2,
+h3,
+h4,
+span,
+button,
+header,
+i,
+p,
+a {
     transition: ease-in-out 0.8s;
 }
 
@@ -92,6 +114,10 @@ a {
 
 a:hover {
     color: var(--primary-color);
+}
+
+.GS {
+    color: var(--nav);
 }
 
 i {
