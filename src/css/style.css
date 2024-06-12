@@ -290,7 +290,7 @@ p {
 }
 
 .btn--primary {
-    border: 1px solid var(--primary-color);
+    border: 2px solid var(--primary-color);
 }
 
 main,
@@ -404,6 +404,7 @@ main {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    gap: 1rem;
 }
 
 .card__buttons .btn {
