@@ -6,6 +6,8 @@ Pagina dedicada a atualização e complemento do meu portifolio de projetos
 
 ![image](https://github.com/ArrozDoce007/portfolio/assets/143344186/fcce5a8c-9e30-4b1e-b1f2-2172cc96cafa)
 
-![image](https://github.com/ArrozDoce007/portfolio/assets/143344186/60714988-7827-4823-b7fa-3847a10dcd6b)
+![image](https://github.com/user-attachments/assets/01ff72b2-b612-4159-8cda-249be9f8791c)
 
-![Captura de tela 2024-05-05 202452](https://github.com/ArrozDoce007/portfolio/assets/143344186/18b169c5-e4f3-46c5-8779-590600e450d5)
+
+![image](https://github.com/user-attachments/assets/b5ce989f-bf33-4510-9ff7-d2ad8ceff747)
+
