@@ -2,7 +2,7 @@
 
 Pagina dedicada a atualização e complemento do meu portifolio de projetos
 
-[Clique aqui para acessar a página](https://arrozdoce007.github.io/portfolio/)
+[Clique aqui para acessar a página](https://portifolio-personalizado.netlify.app)
 
 ![image](https://github.com/user-attachments/assets/3b47b68b-368f-4ef5-984a-15385f0b8bc2)
 
